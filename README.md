@@ -1,2 +1,2 @@
 # pseudocodigos-psint
-diferente tipos de speudocodigos variando de estructura Secuencial, Repetitiva y de Seleccion
+diferente tipos de pseuodocodigos  variando  entre  estructuras  secuncuciales,  repetitivas  y  de  selección.
